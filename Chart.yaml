@@ -3,3 +3,6 @@ name: nginx  # chart name
 version: 1.0.1 # chart version
 description: upgrading to stable-perl version
 appVersion: stable-perl # this is application version
+
+
+# appverion change chestunna everytime we need to change # chart version for tracking version and changes
